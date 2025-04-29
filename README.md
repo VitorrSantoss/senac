@@ -3,7 +3,7 @@
 ## Tipos primitivos:
 String | Int | Float | Boolean 
 ## Operadores aritimétricos: 
-+ | - | / | * | %
+( + | - | / | * | % )
 ```py
 sb = float(input('Digite seu salário bruto: R$'))
 h_extras = int(input('Quantas horas extras você possui?'))
